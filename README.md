@@ -1,24 +1,24 @@
-🏥 Cardioguard App
+🏥 Cardioguard App:
 Cardioguard is a simple web application designed to calculate a Cardioguard Score based on patient details such as age, serum creatinine, ejection fraction, and serum sodium. This score helps assess risk factors and the need for close monitoring. This is an extension to my capstone 2 project accessible via my GitHub. 
 
 
-🚀 Live Demo
+🚀 Live Demo:
 🔗 [Click for Live Demo](https://zarapalevani.com/cardiogaurd-score)
 
-📌 Features
+📌 Features:
  User-friendly form to input patient details
  Dynamic risk score calculation
  Hosted on Heroku for easy access
  Built using Flask, HTML/CSS, and Gunicorn
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Backend: Flask, Gunicorn
 Frontend: HTML, CSS (Bootstrap)
 Deployment: Heroku
 Version Control: Git & GitHub
 
 
-🚀 How to Run Locally
+🚀 How to Run Locally:
 
 1️⃣ Clone this repository
 
@@ -54,7 +54,7 @@ python app.py
 5️⃣ Open your browser and go to http://127.0.0.1:5000/
 
 
-🌍 Deploying to Heroku
+🌍 Deploying to Heroku:
 
 1️⃣ Login to Heroku
 
@@ -99,13 +99,13 @@ Edit
 heroku open
 
 
-📸 Screenshots
+📸 Screenshots:
 TBC
 
 
-📜 License
+📜 License:
 This project is licensed under the MIT License.
 
 
-💌 Acknowledgments
+💌 Acknowledgments:
 Special thanks to the M2M team for inspiring me through this deployment journey! ❤️🚀
