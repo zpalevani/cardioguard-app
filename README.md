@@ -92,12 +92,12 @@ Edit
 heroku ps:scale web=1
 
 6️⃣ Open the app
-
+'''
 bash
 Copy
 Edit
 heroku open
-
+'''
 
 📸 Screenshots:
 TBC
