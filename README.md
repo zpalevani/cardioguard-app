@@ -17,6 +17,7 @@ Deployment: Heroku
 Version Control: Git & GitHub
 
 🚀 How to Run Locally
+
 1️⃣ Clone this repository
 
 bash
